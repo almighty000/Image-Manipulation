@@ -5,8 +5,10 @@ Download the zip file Open the image.py
 
 change the image location here:
 
-'image_file = Image.open("image.jpg")'
+    'image_file = Image.open("image.jpg")'
+
 Run it from terminal
 
-python image.py
+    python image.py
+
 See the Magic
